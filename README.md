@@ -20,6 +20,10 @@ int main()
   <br>
   {
   <br>
+  for(j=1; j<=1; j++)
+  <br>
+  {
+  <br>
   cout<<v<<" ";
   <br>
   v++;
